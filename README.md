@@ -1,1 +1,1 @@
-Spring security : role based
+Spring security basics + thymleaf demonstration (role based)
